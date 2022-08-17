@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=BuildingLayoutsFlutter&message=Greg%C3%B3rioNeto&color=7159c1&style=for-the-badge&logo=ghost">
 
-![BuildingLayoutsFlutter](https://github.com/igregorioneto/survive_in_the_maze/blob/main/assets/game.png)
+![BuildingLayoutsFlutter](https://github.com/igregorioneto/building_layouts_flutter/blob/main/assets/tela.png)
 
 ## Getting Started
 
